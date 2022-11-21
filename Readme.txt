@@ -7,6 +7,6 @@ and one python file having all the route funtions.
 the last file is database file in which some data already stored due to testing the web app
 
 
-In this project, you just create a new sttudent and enter the details into database.
+In this project, you just create a new student and enter the details into database.
 and you can view the data of all the students using list.html file.
 there is no edit and update operation performed due to its simplicity.
